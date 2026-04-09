@@ -12,7 +12,7 @@
 void setup()
 {
     Serial.begin(115200); // Baudrate
-    Serial.println("..Start..\n"); // Julian was here!!!
+    Serial.println("..Start..\n");
 }
 
 void loop()
@@ -20,5 +20,3 @@ void loop()
     
 }
 
-// I was here
-// Hallo das ist der neue Text 
